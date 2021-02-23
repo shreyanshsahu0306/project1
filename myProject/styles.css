@@ -1,0 +1,16 @@
+#title{
+    background-color: rgb(68, 65, 65);
+}
+/* topBar */
+.topBar{
+    padding-right: 50px;
+}
+    
+.navbar-brand{
+    font-family: "Ubuntu" ;
+    font-size: 3.5rem;
+    font-weight: bold;
+    }
+.nav-item{
+    padding: 0px 10px;
+    }
